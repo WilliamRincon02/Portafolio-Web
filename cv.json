@@ -1,0 +1,238 @@
+{
+    "basics": {
+      "name": "William Rincon Julio",
+      "label": "Estudiande de la Universidad Francisco de Paula Santader formandose como Ingeniero de Sistemas",
+      "image": "src/assets/img/perfil.jpg",
+      "email": "rinconwilliam996@gmail.com",
+      "phone": "(+57) 3127909230",
+      "url": "https://williamrincon.com",
+      "summary": "Este es el resumen de mi portafolio",
+      "location": {
+        "address": "Mnz k2 Lote 4",
+        "postalCode": "12345",
+        "city": "Cucuta",
+        "countryCode": "Co",
+        "region": "Norte de Santander"
+      },
+      "profiles": [
+        {
+          "network": "X",
+          "username": "WilliamRincon",
+          "url": "https://twitter.com/William47230400"
+        },
+        {
+          "network": "Github",
+          "username": "WilliamRincon02",
+          "url": "https://github.com/WilliamRincon02"
+        },
+        {
+          "network": "LinkedIn",
+          "username": "William Rincon",
+          "url": "https://www.linkedin.com/in/william-rinc%C3%B3n-904a39201/"
+        }
+    ]
+    },
+    "work": [{
+      "name": "Telecom Colombia",
+      "position": "Desarrollador BackEnd",
+      "url": "https://company.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Desarrollador backend altamente competente con experiencia especializada en el sector de las telecomunicaciones, dedicado a impulsar la eficiencia y la innovación en entornos tecnológicos exigentes.",
+      "highlights": [
+        "Started the company"
+      ]
+    }],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "Universidad Francisco de Paula Santander",
+      "url": "https://ww2.ufps.edu.co/",
+      "area": "Ingenieria de Sistemas",
+      "studyType": "Universitario",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [
+      {
+        "name": "Web Development",
+        "level": "Master",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React",
+          "Angular",
+          "Vue.js",
+          "Node.js",
+          "Express.js",
+          "RESTful APIs",
+          "Webpack"
+        ]
+      },
+      {
+        "name": "Backend Development",
+        "level": "Expert",
+        "keywords": [
+          "Python",
+          "Django",
+          "Flask",
+          "Ruby on Rails",
+          "Java",
+          "Spring Boot",
+          "PHP",
+          "Laravel"
+        ]
+      },
+      {
+        "name": "Database Management",
+        "level": "Advanced",
+        "keywords": [
+          "MySQL",
+          "PostgreSQL",
+          "MongoDB",
+          "SQLite",
+          "Firebase",
+          "Microsoft SQL Server"
+        ]
+      },
+      {
+        "name": "Frontend Frameworks",
+        "level": "Advanced",
+        "keywords": [
+          "React",
+          "Angular",
+          "Vue.js",
+          "Bootstrap",
+          "Material-UI",
+          "Tailwind CSS"
+        ]
+      },
+      {
+        "name": "Mobile App Development",
+        "level": "Intermediate",
+        "keywords": [
+          "React Native",
+          "Flutter",
+          "Swift",
+          "Kotlin"
+        ]
+      }
+    ]
+    ,
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [
+      {
+        "name": "Project",
+        "startDate": "2019-01-01",
+        "endDate": "2021-01-01",
+        "description": "Descripcion del proyecto en el cual estuve involucrado",
+        "isActive": true,
+        "highlights": [
+          "Won award at AIHacks 2016"
+        ],
+        "url": "https://project.com/"
+      },
+      {
+        "name": "Project",
+        "startDate": "2019-01-01",
+        "endDate": "2021-01-01",
+        "description": "Descripcion del proyecto en el cual estuve involucrado",
+        "isActive": true,
+        "highlights": [
+          "Won award at AIHacks 2016"
+        ],
+        "url": "https://project.com/"
+      },
+      {
+        "name": "Project",
+        "startDate": "2019-01-01",
+        "endDate": "2021-01-01",
+        "description": "Descripcion del proyecto en el cual estuve involucrado",
+        "isActive": true,
+        "highlights": [
+          "Won award at AIHacks 2016"
+        ],
+        "url": "https://project.com/"
+      },
+      {
+        "name": "Project",
+        "startDate": "2019-01-01",
+        "endDate": "2021-01-01",
+        "description": "Descripcion del proyecto en el cual estuve involucrado",
+        "isActive": false,
+        "highlights": [
+          "Won award at AIHacks 2016"
+        ],
+        "url": "https://project.com/"
+      },
+      {
+        "name": "Project",
+        "startDate": "2019-01-01",
+        "endDate": "2021-01-01",
+        "description": "Descripcion del proyecto en el cual estuve involucrado",
+        "isActive": false,
+        "highlights": [
+          "Won award at AIHacks 2016"
+        ],
+        "url": "https://project.com/"
+      },
+      {
+        "name": "Project",
+        "startDate": "2019-01-01",
+        "endDate": "2021-01-01",
+        "description": "Descripcion del proyecto en el cual estuve involucrado",
+        "isActive": true,
+        "highlights": [
+          "Won award at AIHacks 2016"
+        ],
+        "url": "https://project.com/"
+      }
+    ]
+  }
